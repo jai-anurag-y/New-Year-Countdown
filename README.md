@@ -30,4 +30,4 @@ Feel free to customize the countdown timer by modifying styles, adjusting the ta
 
 This countdown timer was created by **Jai Anurag Y** as a fun project. Feel free to contribute or share your feedback.
 
-Enjoy the countdown to the New Year!
+Enjoy the countdown to the New Year !!!
